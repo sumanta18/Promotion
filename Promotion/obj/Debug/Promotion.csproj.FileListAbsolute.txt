@@ -1,0 +1,7 @@
+C:\Users\M1056548\source\repos\Promotion\bin\Debug\Promotion.exe.config
+C:\Users\M1056548\source\repos\Promotion\bin\Debug\Promotion.exe
+C:\Users\M1056548\source\repos\Promotion\bin\Debug\Promotion.pdb
+C:\Users\M1056548\source\repos\Promotion\obj\Debug\Promotion.csprojAssemblyReference.cache
+C:\Users\M1056548\source\repos\Promotion\obj\Debug\Promotion.csproj.CoreCompileInputs.cache
+C:\Users\M1056548\source\repos\Promotion\obj\Debug\Promotion.exe
+C:\Users\M1056548\source\repos\Promotion\obj\Debug\Promotion.pdb
